@@ -6,7 +6,7 @@ public class Hello {
         //oper3_2();
         //oper4();
         //oper4_2();
-        //oper5();
+        oper5();
         //oper5_2();
         //oper5_3();
         //oper6();
@@ -14,7 +14,7 @@ public class Hello {
         //oper7();
         //oper7_2();
         //oper8();
-        oper8_2();
+        //oper8_2();
     }
 
     public static void oper() {
