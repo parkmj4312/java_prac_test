@@ -180,10 +180,13 @@ class Exercise4_9 {
     public static void main(String[] args) {
         int num = 12345;
         int sum = 0;
-        String s = ""+num;
-        for(int i=0;i<s.length();i++){
-            sum += Character.getNumericValue(s.charAt(i));
+
+        while(num > 0){
+            int a = num % 10;
+            num = num/10;
+            sum += a;
         }
+
         System.out.println("sum="+sum);
     }
 }//예상 결과 : sum=15
