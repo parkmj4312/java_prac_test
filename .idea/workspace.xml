@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc6822e1-5745-4ce6-b86f-0c6855863033" name="Changes" comment="리포트 md파일 생성">
-      <change afterPath="$PROJECT_DIR$/Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Control.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report4.java" afterDir="false" />
+    <list default="true" id="fc6822e1-5745-4ce6-b86f-0c6855863033" name="Changes" comment="2일차 학습내용 report 커밋">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -116,7 +112,7 @@
       <option name="presentableId" value="Default" />
       <updated>1676255166317</updated>
       <workItem from="1676255167440" duration="213000" />
-      <workItem from="1676257419622" duration="29943000" />
+      <workItem from="1676257419622" duration="30655000" />
     </task>
     <task id="LOCAL-00001" summary="ㅇㅇ">
       <created>1676257459991</created>
@@ -153,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676284330707</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="2일차 학습내용 report 커밋">
+      <created>1676352490147</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1676352490147</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,6 +167,7 @@
     <MESSAGE value="2차 커밋" />
     <MESSAGE value="report 커밋" />
     <MESSAGE value="리포트 md파일 생성" />
-    <option name="LAST_COMMIT_MESSAGE" value="리포트 md파일 생성" />
+    <MESSAGE value="2일차 학습내용 report 커밋" />
+    <option name="LAST_COMMIT_MESSAGE" value="2일차 학습내용 report 커밋" />
   </component>
 </project>
