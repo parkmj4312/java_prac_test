@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc6822e1-5745-4ce6-b86f-0c6855863033" name="Changes" comment="report 커밋">
-      <change afterPath="$PROJECT_DIR$/report1.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report2.md" afterDir="false" />
+    <list default="true" id="fc6822e1-5745-4ce6-b86f-0c6855863033" name="Changes" comment="리포트 md파일 생성">
+      <change afterPath="$PROJECT_DIR$/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Control.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_prac_test/report2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_prac_test/report2.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,23 +61,37 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.report1">
-    <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hello" />
+  <component name="RunManager" selected="Application.Exercise5_13">
+    <configuration name="Exercise5_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise5_13" />
       <module name="java_prac_test" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="report1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="report1" />
+    <configuration name="Exercise5_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise5_3" />
       <module name="java_prac_test" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="report2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="report2" />
+    <configuration name="Exercise5_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise5_4" />
+      <module name="java_prac_test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise5_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise5_5" />
+      <module name="java_prac_test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="report4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="report4" />
       <module name="java_prac_test" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -84,9 +99,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.report1" />
-        <item itemvalue="Application.report2" />
-        <item itemvalue="Application.Hello" />
+        <item itemvalue="Application.Exercise5_13" />
+        <item itemvalue="Application.Exercise5_5" />
+        <item itemvalue="Application.Exercise5_4" />
+        <item itemvalue="Application.Exercise5_3" />
+        <item itemvalue="Application.report4" />
       </list>
     </recent_temporary>
   </component>
@@ -99,7 +116,7 @@
       <option name="presentableId" value="Default" />
       <updated>1676255166317</updated>
       <workItem from="1676255167440" duration="213000" />
-      <workItem from="1676257419622" duration="13330000" />
+      <workItem from="1676257419622" duration="29943000" />
     </task>
     <task id="LOCAL-00001" summary="ㅇㅇ">
       <created>1676257459991</created>
@@ -129,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676272006055</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="리포트 md파일 생성">
+      <created>1676284330707</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1676284330707</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,6 +163,7 @@
     <MESSAGE value="ㅇㅇ" />
     <MESSAGE value="2차 커밋" />
     <MESSAGE value="report 커밋" />
-    <option name="LAST_COMMIT_MESSAGE" value="report 커밋" />
+    <MESSAGE value="리포트 md파일 생성" />
+    <option name="LAST_COMMIT_MESSAGE" value="리포트 md파일 생성" />
   </component>
 </project>
