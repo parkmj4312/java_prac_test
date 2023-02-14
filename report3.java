@@ -96,13 +96,14 @@ class Exercise4_4 {
         int s = 1; // 값의 부호를 바꿔주는데 사용할 변수
         int num = 0;
         while(sum < 100){
+            num = Math.abs(s);
             sum = sum + s;
             s = Math.abs(s);
             s++;
             if(s % 2 == 0){
                 s =s * -1;
             }
-            num = Math.abs(s);
+
         }
 
         System.out.println("num="+num);

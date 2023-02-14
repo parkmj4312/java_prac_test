@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc6822e1-5745-4ce6-b86f-0c6855863033" name="Changes" comment="2일차 학습내용 report 커밋">
+    <list default="true" id="fc6822e1-5745-4ce6-b86f-0c6855863033" name="Changes" comment="로그인 플로우 차트 작성">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report3.java" beforeDir="false" afterPath="$PROJECT_DIR$/report3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,16 +58,23 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Exercise5_13">
-    <configuration name="Exercise5_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercise5_13" />
+  <component name="RunManager" selected="Application.Exercise4_4">
+    <configuration name="Exercise4_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise4_2" />
       <module name="java_prac_test" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise5_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercise5_3" />
+    <configuration name="Exercise4_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise4_4" />
+      <module name="java_prac_test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise5_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise5_13" />
       <module name="java_prac_test" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -86,20 +94,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="report4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="report4" />
-      <module name="java_prac_test" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercise4_4" />
+        <item itemvalue="Application.Exercise4_2" />
         <item itemvalue="Application.Exercise5_13" />
         <item itemvalue="Application.Exercise5_5" />
         <item itemvalue="Application.Exercise5_4" />
-        <item itemvalue="Application.Exercise5_3" />
-        <item itemvalue="Application.report4" />
       </list>
     </recent_temporary>
   </component>
@@ -112,7 +113,7 @@
       <option name="presentableId" value="Default" />
       <updated>1676255166317</updated>
       <workItem from="1676255167440" duration="213000" />
-      <workItem from="1676257419622" duration="30655000" />
+      <workItem from="1676257419622" duration="32268000" />
     </task>
     <task id="LOCAL-00001" summary="ㅇㅇ">
       <created>1676257459991</created>
@@ -156,7 +157,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676352490147</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="로그인 플로우 차트 작성">
+      <created>1676353685596</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1676353685596</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,6 +176,7 @@
     <MESSAGE value="report 커밋" />
     <MESSAGE value="리포트 md파일 생성" />
     <MESSAGE value="2일차 학습내용 report 커밋" />
-    <option name="LAST_COMMIT_MESSAGE" value="2일차 학습내용 report 커밋" />
+    <MESSAGE value="로그인 플로우 차트 작성" />
+    <option name="LAST_COMMIT_MESSAGE" value="로그인 플로우 차트 작성" />
   </component>
 </project>
