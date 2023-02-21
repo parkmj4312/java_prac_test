@@ -1,4 +1,5 @@
 import java.util.Arrays;
+import java.util.Collections;
 
 class Arrays2_1 {
     public static void main(String[] args) {
@@ -18,15 +19,15 @@ class Arrays2_1 {
 
 class Arrays2_2 {
     public static void main(String[] args) {
-        int[] num1 = new int[]{1,2,3,4,5,6,7,8,9};
-        int[] num2 = {1,2,3,4,5,6,7,8,9};
+        int[] num1 = new int[]{1, 2, 3, 4, 5, 6, 7, 8, 9};
+        int[] num2 = {1, 2, 3, 4, 5, 6, 7, 8, 9};
 
         for (int i = 0; i < num1.length; i++) {
-            System.out.println("num1[" +i + "] = " + num1[i]);
+            System.out.println("num1[" + i + "] = " + num1[i]);
         }
         System.out.println();
         for (int i = 0; i < num2.length; i++) {
-            System.out.println("num2[" +i + "] = " + num2[i]);
+            System.out.println("num2[" + i + "] = " + num2[i]);
         }
 
         System.out.println();
@@ -37,10 +38,10 @@ class Arrays2_2 {
 
         // 위처럼 나눠서 표현을 해야 한다면 아래처럼 초기화 하셔야 합니다.
         int[] num4;
-        num4 = new int[]{1,2,3,4,5,6,7,8,9};
+        num4 = new int[]{1, 2, 3, 4, 5, 6, 7, 8, 9};
 
         for (int i = 0; i < num4.length; i++) {
-            System.out.println("num4[" +i + "] = " + num4[i]);
+            System.out.println("num4[" + i + "] = " + num4[i]);
         }
     }
 }
@@ -96,7 +97,7 @@ class Arrays3_3 {
         for (int i = 0; i < score.length; i++) {
             if (score[i] > max) {
                 max = score[i];
-            } else if(score[i] < min) {
+            } else if (score[i] < min) {
                 min = score[i];
             }
         }
@@ -216,12 +217,12 @@ class Arrays6_1 {
         System.out.println();
 
         String[][] strArr1 = {
-                {"AAA","BBB","CCC"},
-                {"aaa","bbb","ccc"},
+                {"AAA", "BBB", "CCC"},
+                {"aaa", "bbb", "ccc"},
         };
         String[][] strArr2 = {
-                {"AAA","BBB","CCC"},
-                {"aaa","bbb","ccc"},
+                {"AAA", "BBB", "CCC"},
+                {"aaa", "bbb", "ccc"},
         };
 
         // 1 차원 비교에는 equals
@@ -238,7 +239,7 @@ class Arrays6_1 {
 
 class Arrays6_2 {
     public static void main(String[] args) {
-        int[] arr = {0,1,2,3,4};
+        int[] arr = {0, 1, 2, 3, 4};
         System.out.println("Arrays.toString(arr) = " + Arrays.toString(arr));
 
         System.out.println();
@@ -271,3 +272,35 @@ class Arrays6_3 {
     }
 }
 
+class test {
+    public static void main(String[] args) {
+//        long n = 12345;
+//        long answer = 0;
+//        String s = "" + n;
+//        char[] c = s.toCharArray();
+//        Arrays.sort(c, Collections.reverseOrder());
+        // 이 부분에 코드 넣으시면 될 것 같아요
+
+    }
+}
+
+class Solution {
+    public boolean solution(String s) {
+        boolean answer = true;
+        boolean flag = false;
+        for (int i = 0; i < s.length() ; i++) {
+            if ('0' <= s.charAt(i) && s.charAt(i) <= '9') {
+                flag = true;
+            }else{
+                flag = false;
+                break;
+            }
+        }
+        if ((s.length() == 4 || s.length() ==6) && flag == true){
+            answer = true;
+        }else{
+            answer = false;
+        }
+        return answer;
+    }
+}

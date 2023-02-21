@@ -1,3 +1,6 @@
+import java.util.ArrayList;
+import java.util.Arrays;
+
 class Exercise4_1 {
     public static void main(String[] args) {
         //4-1. 다음의 문장들을 조건식으로 표현해보세요.

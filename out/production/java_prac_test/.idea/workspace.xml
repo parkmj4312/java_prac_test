@@ -4,8 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc6822e1-5745-4ce6-b86f-0c6855863033" name="Changes" comment="ㅇㅇ">
-      <change beforePath="$PROJECT_DIR$/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hello.java" afterDir="false" />
+    <list default="true" id="fc6822e1-5745-4ce6-b86f-0c6855863033" name="Changes" comment="4_9 수정">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_prac_test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_prac_test/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_prac_test/Hello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_prac_test/report1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_prac_test/report2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report3.java" beforeDir="false" afterPath="$PROJECT_DIR$/report3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,11 +28,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -44,22 +50,51 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/parkm/Downloads/ggingmain/java_prac_test",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/parkm/Downloads/ggingmain/java_prac_test&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager">
-    <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hello" />
+}</component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Exercise4_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise4_10" />
+      <module name="java_prac_test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="java_prac_test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution" />
+      <module name="java_prac_test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution_1" />
+      <module name="java_prac_test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution_2" />
       <module name="java_prac_test" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -67,7 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Hello" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Solution_2" />
+        <item itemvalue="Application.Solution_1" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Exercise4_10" />
       </list>
     </recent_temporary>
   </component>
@@ -80,7 +119,9 @@
       <option name="presentableId" value="Default" />
       <updated>1676255166317</updated>
       <workItem from="1676255167440" duration="213000" />
-      <workItem from="1676257419622" duration="792000" />
+      <workItem from="1676257419622" duration="44173000" />
+      <workItem from="1676512781795" duration="5421000" />
+      <workItem from="1676858211793" duration="330000" />
     </task>
     <task id="LOCAL-00001" summary="ㅇㅇ">
       <created>1676257459991</created>
@@ -89,7 +130,63 @@
       <option name="project" value="LOCAL" />
       <updated>1676257459991</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2차 커밋">
+      <created>1676268193187</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676268193187</updated>
+    </task>
+    <task id="LOCAL-00003" summary="report 커밋">
+      <created>1676271998045</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1676271998045</updated>
+    </task>
+    <task id="LOCAL-00004" summary="report 커밋">
+      <created>1676272006055</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1676272006055</updated>
+    </task>
+    <task id="LOCAL-00005" summary="리포트 md파일 생성">
+      <created>1676284330707</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1676284330707</updated>
+    </task>
+    <task id="LOCAL-00006" summary="2일차 학습내용 report 커밋">
+      <created>1676352490147</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1676352490147</updated>
+    </task>
+    <task id="LOCAL-00007" summary="로그인 플로우 차트 작성">
+      <created>1676353685596</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1676353685596</updated>
+    </task>
+    <task id="LOCAL-00008" summary="4_4 수정">
+      <created>1676363635291</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1676363635291</updated>
+    </task>
+    <task id="LOCAL-00009" summary="4_9 수정">
+      <created>1676375676583</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1676375676583</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,6 +194,13 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ㅇㅇ" />
-    <option name="LAST_COMMIT_MESSAGE" value="ㅇㅇ" />
+    <MESSAGE value="2차 커밋" />
+    <MESSAGE value="report 커밋" />
+    <MESSAGE value="리포트 md파일 생성" />
+    <MESSAGE value="2일차 학습내용 report 커밋" />
+    <MESSAGE value="로그인 플로우 차트 작성" />
+    <MESSAGE value="4_4 수정" />
+    <MESSAGE value="4_9 수정" />
+    <option name="LAST_COMMIT_MESSAGE" value="4_9 수정" />
   </component>
 </project>
