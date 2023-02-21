@@ -6,7 +6,7 @@ class Exercise6_17 {
     static int[] shuffle(int[] arr){
         for(int i =0;i<arr.length;i++){
             int temp = arr[i];
-            int random = (int)Math.random()*9+1;
+            int random = (int)Math.random()*8;
             arr[i] = arr[random];
             arr[random] = temp;
         }
