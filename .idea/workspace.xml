@@ -4,14 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc6822e1-5745-4ce6-b86f-0c6855863033" name="Changes" comment="Day5 객체지향 SOLID">
-      <change afterPath="$PROJECT_DIR$/SpringS/A/Bus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringS/A/BusFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringS/A/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringS/A/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringS/A/Taxi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringS/A/TaxiFunction.java" afterDir="false" />
+    <list default="true" id="fc6822e1-5745-4ce6-b86f-0c6855863033" name="Changes" comment="Spring S.A.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringS/A/Bus.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringS/A/Bus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringS/A/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringS/A/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringS/A/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringS/A/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringS/A/Taxi.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringS/A/Taxi.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,7 +153,7 @@
       <workItem from="1676255167440" duration="213000" />
       <workItem from="1676257419622" duration="44173000" />
       <workItem from="1676512781795" duration="5421000" />
-      <workItem from="1676858211793" duration="48771000" />
+      <workItem from="1676858211793" duration="49363000" />
     </task>
     <task id="LOCAL-00001" summary="ㅇㅇ">
       <created>1676257459991</created>
@@ -248,7 +246,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677112431292</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Spring S.A.">
+      <created>1677224913081</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1677224913081</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -267,6 +272,7 @@
     <MESSAGE value="Day3 객체지향 part1 수정" />
     <MESSAGE value="Day3 객체지향 part2 report8" />
     <MESSAGE value="Day5 객체지향 SOLID" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day5 객체지향 SOLID" />
+    <MESSAGE value="Spring S.A." />
+    <option name="LAST_COMMIT_MESSAGE" value="Spring S.A." />
   </component>
 </project>

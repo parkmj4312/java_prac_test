@@ -31,7 +31,8 @@ public class Taxi extends Car implements TaxiFunction{
 
     }
     public void user_board(int user, String dest,int dest_distance){
-        if(setState(0) == 0){
+        if(setState(1) == 1){
+            setState(0);
             if(user <= max_user){
                 this.user+=user;
                 int sum = base_fee+(dest_distance-base_distance)*distance_fee;
@@ -54,11 +55,12 @@ public class Taxi extends Car implements TaxiFunction{
             System.out.println("탑승이 불가능 합니다");
         }
     }
-    void setSpeed(){
-
-    }
-    void add_fee(){
-
+    public void setSpeed(int speed){
+        if(gas_amount < 10){
+            System.out.println("주유량을 확인해 주세요.");
+        }else{
+            super.cur_speed = speed;
+        }
     }
     public void payment(){
         System.out.println("주유량 : "+gas_amount);

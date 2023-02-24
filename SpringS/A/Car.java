@@ -32,4 +32,6 @@ abstract public class Car {
     abstract public boolean isBus();
 
     public abstract int setState(int state);
+
+    public abstract void setSpeed(int speed);
 }
