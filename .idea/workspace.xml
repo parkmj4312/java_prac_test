@@ -4,45 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc6822e1-5745-4ce6-b86f-0c6855863033" name="Changes" comment="Day3 객체지향 part2 report8">
-      <change afterPath="$PROJECT_DIR$/SOLID/DIP/AbstractOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/DIP/AddOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/DIP/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/DIP/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/DIP/DivideOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/DIP/MultiplyOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/DIP/SubstractOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/ISP/AbstractOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/ISP/AddOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/ISP/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/ISP/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/ISP/Display.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/ISP/Display2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/ISP/DisplayTypeA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/ISP/DisplayTypeB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/ISP/DivideOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/ISP/MultiplyOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/ISP/SubstractOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/LSP/AbstractOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/LSP/AddOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/LSP/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/LSP/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/LSP/DivideOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/LSP/MultiplyOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/LSP/SubstractOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/OCP/AbstractOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/OCP/AddOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/OCP/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/OCP/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/OCP/DivideOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/OCP/MultiplyOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/OCP/SubstractOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/SRP/AddOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/SRP/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/SRP/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/SRP/DivideOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/SRP/MultiplyOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/SRP/SubstractOperation.java" afterDir="false" />
+    <list default="true" id="fc6822e1-5745-4ce6-b86f-0c6855863033" name="Changes" comment="Day5 객체지향 SOLID">
+      <change afterPath="$PROJECT_DIR$/SpringS/A/Bus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringS/A/BusFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringS/A/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringS/A/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringS/A/Taxi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringS/A/TaxiFunction.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,6 +21,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -105,7 +74,7 @@
       <recent name="SOLID.ISP" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Client">
+  <component name="RunManager" selected="Application.SpringS.A.Client">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SOLID.LSP.Client" />
       <module name="java_prac_test" />
@@ -115,13 +84,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exercise7_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercise7_2" />
-      <module name="java_prac_test" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -159,13 +121,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SpringS.A.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SpringS.A.Client" />
+      <module name="java_prac_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SpringS.A.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SpringS.A.Client" />
         <item itemvalue="Application.Client" />
         <item itemvalue="Application.SOLID.DIP.Client" />
         <item itemvalue="Application.SOLID.ISP.Client" />
         <item itemvalue="Application.Exercise7_3" />
-        <item itemvalue="Application.Exercise7_2" />
       </list>
     </recent_temporary>
   </component>
@@ -180,7 +155,7 @@
       <workItem from="1676255167440" duration="213000" />
       <workItem from="1676257419622" duration="44173000" />
       <workItem from="1676512781795" duration="5421000" />
-      <workItem from="1676858211793" duration="35006000" />
+      <workItem from="1676858211793" duration="48771000" />
     </task>
     <task id="LOCAL-00001" summary="ㅇㅇ">
       <created>1676257459991</created>
@@ -266,7 +241,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677040859757</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Day5 객체지향 SOLID">
+      <created>1677112431292</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1677112431292</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -284,6 +266,7 @@
     <MESSAGE value="Day3 객체지향 part1" />
     <MESSAGE value="Day3 객체지향 part1 수정" />
     <MESSAGE value="Day3 객체지향 part2 report8" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day3 객체지향 part2 report8" />
+    <MESSAGE value="Day5 객체지향 SOLID" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day5 객체지향 SOLID" />
   </component>
 </project>
