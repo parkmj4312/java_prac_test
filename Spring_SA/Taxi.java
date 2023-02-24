@@ -54,11 +54,12 @@ public class Taxi extends Car implements TaxiFunction{
             System.out.println("탑승이 불가능 합니다");
         }
     }
-    void setSpeed(){
-
-    }
-    void add_fee(){
-
+    public void setSpeed(int speed){
+        if(gas_amount < 10){
+            System.out.println("주유량을 확인해 주세요.");
+        }else{
+            super.cur_speed = speed;
+        }
     }
     public void payment(){
         System.out.println("주유량 : "+gas_amount);

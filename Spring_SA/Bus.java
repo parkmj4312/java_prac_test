@@ -37,7 +37,7 @@ public class Bus extends Car implements BusFunction{
         }
     }
 
-    void setSpeed(int speed){
+    public void setSpeed(int speed){
         if(gas_amount < 10){
             System.out.println("주유량을 확인해 주세요.");
         }else{

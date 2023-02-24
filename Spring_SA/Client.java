@@ -21,6 +21,5 @@ public class Client {
 //        taxi1.user_board(3,"구로디지털단지역",12);
 //        taxi1.race_start(20);
 //        taxi1.payment();
-
     }
 }
