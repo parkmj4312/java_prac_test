@@ -8,4 +8,5 @@ public class DisplayTypeA extends Calculator implements Display {
         int answer = calculate(operation, firstNumber, secondNumber);
         System.out.println(answer);
     }
+
 }
